@@ -1,7 +1,8 @@
 # Expense-Tracker
 ## Steps to Execute the code
 
-1.Download both the code
+1.Download the code
+
 2.PreRequisites for Running BE
   Node.js installed
   MongoDB installed and running
